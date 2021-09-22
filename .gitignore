@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Images and files I will be adding myself
+*modparams.txt
+*physicalparams.logs
+*.svg
